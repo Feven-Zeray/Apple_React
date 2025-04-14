@@ -11,7 +11,7 @@ import SectionFour from './Components/SectionFour/SectionFour'
 import SectionFive from './Components/SectionFive/SectionFive'
 import SectionSix from './commonResource copy/SectionSix/SectionSix'
 import Footer from "./Components/Footer/Footer";
-import logo from "./assets/logo.png";
+
 function App() {
   
 
